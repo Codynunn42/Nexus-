@@ -1,0 +1,24 @@
+/nexus-app
+    /backend
+        /abis
+            - KYCContract.json
+            - MiningContract.json
+            - Haleow2uToken.json
+        - server.js
+        - package.json
+        - .env
+    /frontend
+        - App.js
+        - index.html
+        - package.json
+    /smart-contracts
+        - Haleow2uToken.sol
+        - KYCContract.sol
+        - MiningContract.sol
+    /google-appsheet
+        - appsheet-config.json
+        - instructions.md
+    /docs
+        - README.md
+        - LICENSE
+    .gitignore
