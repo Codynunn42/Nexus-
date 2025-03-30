@@ -2,7 +2,7 @@ Nexus/
 ├── backend/
 │   ├── app.js                // Express app configuration
 │   ├── blockchain.js         // Blockchain interactions, KYC, token minting
-│   ├── game.js               // Crypto game logic (Monopoly/Chess/Boinkers)
+│   ├── game.js               // Crypto game logic (Crypto Game)
 │   ├── mining.js             // Mining functionalities
 │   ├── auth.js               // User authentication, login, KYC integration
 │   └── token.js              // Haleow2u token integration, minting, and transactions
